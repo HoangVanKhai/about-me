@@ -9,8 +9,3 @@ Description about [me](https://github.com/KSXGitHub)
  * GitHub account: [@KSXGitHub](https://github.com/KSXGitHub)
  * Twitter account: [@hvksmr1996](https://twitter.com/hvksmr1996)
  * E-mail: [hvksmr1996@gmail.com](mailto:hvksmr1996@gmail.com)
-
-## Maintaining organizations
-
- * [ksxnodemodules](https://github.com/ksxnodemodules)
- * [ksxatompackages](https://github.com/ksxatompackages)
